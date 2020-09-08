@@ -1,0 +1,15 @@
+1. How is the world wide web different than the internet? - I once heard someone define the difference between the Internet and the world wide web with an analogy that I really
+liked; A movie theatre would be comparble to the world wide web, where you watch a movie (or visit a web page). How you actually GET to the theater is where the internet comes in.
+The world wide web is a virtual space where content is stored and accessed, and the internet keeps it all connected.
+
+2. Briefly describe how the internet works. - The internet allows individuals to connect to a virtual space to store and access data. Data is sent and retreived with unique IP
+addresses through wireless routers and remote servers.
+
+3. Briefly describe one way how data travels on the internet? - Data is broken down into packets of binary code and transferred in pieces via a network of fiber optical cables.
+
+4. What is the relationship between an IP address and the DNS? - DNS and IP addresses directly correlate with one and another just name names and numbers in a phone book. 
+We use DNS because they are easier to remember than the random numbers of an IP address. 
+
+5. What is a cookie? - Cookies are small text files that collect and store personal details for websites, such as settings, preferences, and log-in information.
+
+6. List the three essential parts of a URL. - The protocol, the domain name, and the path.
