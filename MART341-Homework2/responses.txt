@@ -1,0 +1,11 @@
+1. How is the world wide web different than the internet? - I once heard someone define the difference between the Internet and the world wide web with an analogy that I really
+liked; A movie theatre would be comparble to the world wide web, where you watch a movie (or visit a web page). How you actually GET to the theater is where the internet comes in.
+The world wide web is a virtual space where content is stored and accessed, and the internet keeps it all connected.
+2. Briefly describe how the internet works. - The internet allows individuals to connect to a virtual space to store and access data. Data is sent and retreived with unique IP
+addresses through wireless routers and remote servers.
+3. What is a directory, and what is its relationship to files? - There are virtually no differences between the two, but directory is commonly used when discussing file systems.
+They both seem to serve the same purpose: keep your files organized.
+4. How will VCS benefit you? - VCS will be great for the carona period considering that it makes it easier for students and professors to share their work with one another. VCS 
+will also allow me to better track my progress, as I can review older versions of projects and even revert back to said older versions if I choose to do so.
+5. What is your favorite kind of art? - Music, by a mile. I have been playing for years, but only recently just started to write and record. It has been a fun way to express myself,
+and I wish I had started writing music much sooner.
