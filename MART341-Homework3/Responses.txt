@@ -1,0 +1,8 @@
+1. I frequent Youtube and Facebook more than any other sites. My third favorite might be Ultimate Guitar, where I get my guitar tabs.
+
+2. What is the relationship between an IP address and the DNS? - DNS and IP addresses directly correlate with one and another just name names and numbers in a phone book. 
+We use DNS because they are easier to remember than the random numbers of an IP address.
+
+3. What is a cookie? - Cookies are small text files that collect and store personal details for websites, such as settings, preferences, and log-in information.
+
+4. List the three essential parts of a URL. - The protocol, the domain name, and the path.
